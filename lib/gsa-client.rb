@@ -1,0 +1,1 @@
+require 'gsa/client'
