@@ -1,3 +1,5 @@
+# GSA Admin API Docs: http://www.google.com/support/enterprise/static/gsa/docs/admin/74/gsa_doc_set/acapi_protocol/acapi_protocol.html
+#
 require 'hawk/http'
 
 module GSA
